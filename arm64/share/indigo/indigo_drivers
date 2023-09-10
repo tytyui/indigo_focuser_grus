@@ -1,0 +1,121 @@
+"indigo_aux_joystick", "HID Joystick", 0008
+"indigo_ccd_ptp", "PTP-over-USB Camera", 001D
+"indigo_agent_alignment", "Alignment model calibration agent", 0001
+"indigo_agent_alpaca", "ASCOM Alpaca bridge agent", 0002
+"indigo_agent_astap", "ASTAP Agent", 0005
+"indigo_agent_astrometry", "Astrometry Agent", 0010
+"indigo_agent_auxiliary", "Auxiliary Agent", 0003
+"indigo_agent_config", "Configuration Agent", 0004
+"indigo_agent_guider", "Guider Agent", 001E
+"indigo_agent_imager", "Imager Agent", 0028
+"indigo_agent_lx200_server", "LX200 Server Agent", 0004
+"indigo_agent_mount", "Mount Agent", 000E
+"indigo_agent_scripting", "Scripting Agent", 0006
+"indigo_agent_snoop", "Snoop agent", 0002
+"indigo_ao_sx", "StarlightXpress AO", 0008
+"indigo_aux_arteskyflat", "Artesky Flat Box USB", 0005
+"indigo_aux_astromechanics", "ASTROMECHANICS LPM", 0002
+"indigo_aux_cloudwatcher", "AAG CloudWatcher", 0007
+"indigo_aux_dragonfly", "Lunatico Dragonfly Relay Controller", 0004
+"indigo_aux_dsusb", "Shoestring DSUSB shutter release", 0009
+"indigo_aux_fbc", "Lacerta FBC", 0004
+"indigo_aux_flatmaster", "PegasusAstro FlatMaster", 0006
+"indigo_aux_flipflat", "Optec Flip-Flat", 0006
+"indigo_aux_geoptikflat", "Geoptik Flat Generator", 0003
+"indigo_aux_mgbox", "Astromi.ch MGBox", 0003
+"indigo_aux_ppb", "PegasusAstro Pocket Powerbox", 0014
+"indigo_aux_rts", "RTS-on-COM shutter", 0006
+"indigo_aux_skyalert", "Interactive Astronomy SkyAlert", 0001
+"indigo_aux_sqm", "Unihedron SQM", 0008
+"indigo_aux_uch", "PegasusAstro USB Control Hub", 0001
+"indigo_aux_upb", "PegasusAstro Ultimate Powerbox", 0013
+"indigo_aux_usbdp", "USB Dewpoint", 0007
+"indigo_ccd_altair", "AltairAstro Camera",
+"indigo_ccd_apogee", "Apogee Camera", 000B
+"indigo_ccd_asi", "ZWO ASI Camera" "ZWO ASI Camera", 0027
+"indigo_ccd_atik", "Atik Camera" "Atik Camera", 001D
+"indigo_ccd_dsi", "Meade DSI Camera", 000C
+"indigo_ccd_fli", "FLI Camera", 0012
+"indigo_ccd_iidc", "IIDC Compatible Camera", 000B
+"indigo_ccd_mallin", "MallinCam Camera",
+"indigo_ccd_mi", "Moravian Instruments Camera", 0010
+"indigo_ccd_ogma", "OGMA Camera",
+"indigo_ccd_omegonpro", "OmegonPro Camera",
+"indigo_ccd_playerone", "Player One Camera", 0009
+"indigo_ccd_qhy", "QHY Camera", 0017
+"indigo_ccd_qhy2", "QHY Camera2", 0017
+"indigo_ccd_qsi", "QSI Camera" "QSI Camera", 000D
+"indigo_ccd_rising", "RisinCam Camera",
+"indigo_ccd_sbig", "SBIG Camera" "SBIG Camera", 000D
+"indigo_ccd_simulator", "Camera Simulator", 0013
+"indigo_ccd_ssag", "SSAG/QHY5 Camera", 000B
+"indigo_ccd_ssg", "Orion StarShotG Camera",
+"indigo_ccd_svb", "SVBONY Camera", 0012
+"indigo_ccd_sx", "Starlight Xpress Camera", 000E
+"indigo_ccd_touptek", "Touptek Camera", 001F
+"indigo_ccd_uvc", "UVC Camera", 000F
+"indigo_dome_baader", "Baader Classic Dome", 00005
+"indigo_dome_beaver", "Nexdome Beaver Dome", 00002
+"indigo_dome_dragonfly", "Lunatico Dragonfly Dome", 0005
+"indigo_dome_nexdome", "NexDome", 00009
+"indigo_dome_nexdome3", "NexDome3", 0000B
+"indigo_dome_simulator", "Dome Simulator", 0006
+"indigo_dome_skyroof", "Interactive Astronomy SkyRoof", 0007
+"indigo_dome_talon6ror", "Talon6 ROR", 0002
+"indigo_focuser_asi", "ZWO ASI Focuser" "ZWO ASI Focuser", 0018
+"indigo_focuser_astromechanics", "ASTROMECHANICS Focuser", 0002
+"indigo_focuser_dmfc", "PegasusAstro DMFC Focuser", 000C
+"indigo_focuser_dsd", "Deep Sky Dad Focuser", 000E
+"indigo_focuser_efa", "Celestron / PlaneWave EFA Focuser", 0011
+"indigo_focuser_fcusb", "Shoestring FCUSB Focuser", 0006
+"indigo_focuser_fli", "FLI Focuser", 000B
+"indigo_focuser_focusdreampro", "AGadget FocusDreamPro Focuser", 0005
+"indigo_focuser_grus", "GrusFocus", 0001
+"indigo_focuser_lakeside", "LakesideAstro Focuser", 0006
+"indigo_focuser_lunatico", "Lunatico Astronomia Focuser", 0008
+"indigo_focuser_mjkzz", "MJKZZ Rail", 0004
+"indigo_focuser_moonlite", "MoonLite Focuser", 000A
+"indigo_focuser_mypro2", "myFocuserPro2 Focuser", 0006
+"indigo_focuser_nfocus", "Rigel Systems nFOCUS Focuser", 0006
+"indigo_focuser_nstep", "Rigel Systems nSTEP Focuser", 0006
+"indigo_focuser_optec", "Optec TCF-S Focuser", 0007
+"indigo_focuser_primaluce", "PrimaluceLab Focuser/Rotator", 0002
+"indigo_focuser_prodigy", "PegasusAstro Prodigy Microfocuser", 0002
+"indigo_focuser_robofocus", "RoboFocus Focuser", 0001
+"indigo_focuser_steeldrive2", "Baader Planetarium SteelDriveII Focuser", 000C
+"indigo_focuser_usbv3", "USB_Focus v3 Focuser", 0003
+"indigo_focuser_wemacro", "WeMacro Rail", 0004
+"indigo_gps_gpsd", "GPS Sevice Daemon (GPSD) Client", 0004
+"indigo_gps_nmea", "Generic NMEA 0183 GPS", 000B
+"indigo_gps_simulator", "GPS Simulator", 0008
+"indigo_guider_asi", "ZWO ASI USB-St4 Guider" "ZWO ASI USB-St4 Guider", 0005
+"indigo_guider_cgusbst4", "CG-USB-ST4 Adapter", 0003
+"indigo_guider_gpusb", "Shoestring GPUSB Guider", 0004
+"indigo_mount_asi", "ZWO AM Mount", 000B
+"indigo_mount_ioptron", "iOptron Mount", 0026
+"indigo_mount_lx200", "LX200 Mount", 0023
+"indigo_mount_nexstar", "Nexstar Mount", 0018
+"indigo_mount_nexstaraux", "NexStar AUX Mount", 0003
+"indigo_mount_pmc8", "PMC Eight Mount", 0008
+"indigo_mount_rainbow", "RainbowAstro Mount", 000B
+"indigo_mount_simulator", "Mount Simulator", 0007
+"indigo_mount_starbook", "Vixen StarBook Mount", 0002
+"indigo_mount_synscan", "SynScan Mount", 0011
+"indigo_mount_temma", "Takahashi Temma Mount", 0007
+"indigo_wheel_asi", "ZWO ASI Filter Wheel" "ZWO ASI Filter Wheel", 000B
+"indigo_wheel_atik", "Atik Filter Wheel", 0003
+"indigo_wheel_fli", "FLI Filter Wheel", 0007
+"indigo_wheel_indigo", "PegasusAstro Indigo Filter Wheel", 0001
+"indigo_wheel_manual", "Manual filter wheel", 0002
+"indigo_wheel_optec", "Optec Filter Wheel", 0004
+"indigo_wheel_playerone", "Player One Filter Wheel", 0007
+"indigo_wheel_qhy", "QHY CFW Filter Wheel", 0007
+"indigo_wheel_quantum", "Brightstar Quantum Filter Wheel", 0003
+"indigo_wheel_sx", "Starlight Xpress Filter Wheel", 0003
+"indigo_wheel_trutek", "Trutek Filter Wheel", 0003
+"indigo_wheel_xagyl", "Xagyl Filter Wheel", 0004
+"indigo_system_ascol", "ASCOL Telescope System", 0009
+"indigo_rotator_falcon", "PegasusAstro Falcon rotator", 0001
+"indigo_rotator_lunatico", "Lunatico Astronomia Rotator", 0007
+"indigo_rotator_optec", "Optec Pyxis Rotator", 0001
+"indigo_rotator_simulator", "Field Rotator Simulator", 0002
